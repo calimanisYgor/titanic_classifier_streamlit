@@ -1,0 +1,7 @@
+*.pyc
+*.o
+*.out
+*.class
+
+/titatinc-venv/
+/__pycache__/
