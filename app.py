@@ -66,7 +66,7 @@ def predict_survival(modelo):
 
 # Função principal
 def main():
-    st.title("Dashboard Interativo - Titanic")
+    st.title("Titanic Survival Prediction ")
     
     # Carregando os dados
     df = load_data()

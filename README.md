@@ -1,4 +1,4 @@
-# Titanic Survival Prediction Dashboard
+# Titanic Survival Prediction
 
 Este é um mini projeto que utiliza o dataset do Titanic para realizar predições de sobrevivência utilizando o algoritmo K-Nearest Neighbors (KNN). O projeto foi desenvolvido utilizando Streamlit para criar um dashboard interativo.
 
